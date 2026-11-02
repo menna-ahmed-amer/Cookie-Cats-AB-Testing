@@ -1,0 +1,4 @@
+Scenario,Mean_Game_Rounds
+Gate 30 - Original,52.46
+Gate 30 - Without Maximum Outlier,51.34
+Gate 40 - Original,51.3

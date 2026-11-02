@@ -1,0 +1,4 @@
+Metric,Metric_Role,Test,Statistic,P_Value,Alpha,Significant
+Day 1 Retention,Primary,Z-test,1.7840862247974725,0.07440965529691913,0.025,False
+Day 7 Retention,Primary,Z-test,3.164358912748191,0.001554249975614329,0.025,True
+Game Rounds,Secondary,Mann–Whitney U,1024331250.5,0.05020880772044255,0.05,False
